@@ -1,0 +1,9 @@
+{
+  "meteor": {
+    "git": "https://github.com/meteor/meteor.git",
+    "tag": "devel"
+  },
+  "packages": {
+    "ace": {}
+  }
+}

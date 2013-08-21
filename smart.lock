@@ -1,0 +1,19 @@
+{
+  "meteor": {
+    "git": "https://github.com/meteor/meteor.git",
+    "tag": "devel",
+    "commit": "9547ac2b9f45829c8e61d4e701af2d64cd99dd8c"
+  },
+  "dependencies": {
+    "basePackages": {
+      "ace": {}
+    },
+    "packages": {
+      "ace": {
+        "git": "https://github.com/Jay-Oh-eN/meteor-ace.git",
+        "tag": "v1.0.0",
+        "commit": "01eb5802a48d6c44f038132c75bb92138569b000"
+      }
+    }
+  }
+}
